@@ -1,5 +1,7 @@
 # API_Noticas_B3
 
+Cod completo no arquivo `scrap.ipynb`.
+
 Teste para candidatos à vaga de Engenheiro de Dados (Python)
 Instruções:
 Crawlear 5 notícias sobre ações da B3 usando selenium.
